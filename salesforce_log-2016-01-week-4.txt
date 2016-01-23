@@ -1,0 +1,6249 @@
+
+
+Friday 22nd of January 2016 12:20:02 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Name] => METROPOLITAN (ROLL)
+            [ProductCode] => 010709
+            [Description] => METROPOLITAN (ROLL)
+            [Category__c] => 04
+            [Collection__c] => 241
+            [Country_Of_Origin__c] => FR
+            [Manufacturer__c] => CS
+            [Non_Stock__c] => N
+            [Size_Of_Roll__c] => 01
+            [Status__c] => A
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01t61000000PjsNAAS
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:03 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000001GTLpAAO
+            [Product2Id] => 01t61000000PjsNAAS
+            [UnitPrice] => 0
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9CaAAI
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:04 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000003N5y4AAC
+            [Product2Id] => 01t61000000PjsNAAS
+            [UnitPrice] => 0
+            [UseStandardPrice] => 1
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9CfAAI
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:04 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Name] => METROPOLITAN (ROLL)
+            [ProductCode] => 010709
+            [Description] => METROPOLITAN (ROLL)
+            [Category__c] => 04
+            [Collection__c] => 241
+            [Country_Of_Origin__c] => FR
+            [Manufacturer__c] => CS
+            [Non_Stock__c] => N
+            [Size_Of_Roll__c] => 01
+            [Status__c] => A
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01t61000000PjsSAAS
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:05 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000001GTLpAAO
+            [Product2Id] => 01t61000000PjsSAAS
+            [UnitPrice] => 0
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9CkAAI
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:05 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000003N5y9AAC
+            [Product2Id] => 01t61000000PjsSAAS
+            [UnitPrice] => 0
+            [UseStandardPrice] => 1
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9CpAAI
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:06 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Name] => METROPOLITAN (ROLL)
+            [ProductCode] => 010709
+            [Description] => METROPOLITAN (ROLL)
+            [Category__c] => 04
+            [Collection__c] => 241
+            [Country_Of_Origin__c] => FR
+            [Manufacturer__c] => CS
+            [Non_Stock__c] => N
+            [Size_Of_Roll__c] => 01
+            [Status__c] => A
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01t61000000PjsXAAS
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:06 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000001GTLpAAO
+            [Product2Id] => 01t61000000PjsXAAS
+            [UnitPrice] => 0
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9CuAAI
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:06 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000003N5yEAAS
+            [Product2Id] => 01t61000000PjsXAAS
+            [UnitPrice] => 0
+            [UseStandardPrice] => 1
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9CzAAI
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:07 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Name] => METROPOLITAN (ROLL)
+            [ProductCode] => 011125
+            [Description] => METROPOLITAN (ROLL)
+            [Category__c] => 04
+            [Collection__c] => 241
+            [Country_Of_Origin__c] => FR
+            [Manufacturer__c] => CS
+            [Non_Stock__c] => N
+            [Size_Of_Roll__c] => 01
+            [Status__c] => A
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01t61000000PjscAAC
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:09 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000001GTLpAAO
+            [Product2Id] => 01t61000000PjscAAC
+            [UnitPrice] => 0
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9D4AAI
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:10 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000003N5y4AAC
+            [Product2Id] => 01t61000000PjscAAC
+            [UnitPrice] => 0
+            [UseStandardPrice] => 1
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9D9AAI
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:10 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Name] => METROPOLITAN (ROLL)
+            [ProductCode] => 011125
+            [Description] => METROPOLITAN (ROLL)
+            [Category__c] => 04
+            [Collection__c] => 241
+            [Country_Of_Origin__c] => FR
+            [Manufacturer__c] => CS
+            [Non_Stock__c] => N
+            [Size_Of_Roll__c] => 01
+            [Status__c] => A
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01t61000000PjshAAC
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:11 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000001GTLpAAO
+            [Product2Id] => 01t61000000PjshAAC
+            [UnitPrice] => 0
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9DEAAY
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:11 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000003N5y9AAC
+            [Product2Id] => 01t61000000PjshAAC
+            [UnitPrice] => 0
+            [UseStandardPrice] => 1
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9DAAAY
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:12 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Name] => METROPOLITAN (ROLL)
+            [ProductCode] => 011125
+            [Description] => METROPOLITAN (ROLL)
+            [Category__c] => 04
+            [Collection__c] => 241
+            [Country_Of_Origin__c] => FR
+            [Manufacturer__c] => CS
+            [Non_Stock__c] => N
+            [Size_Of_Roll__c] => 01
+            [Status__c] => A
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01t61000000PjsmAAC
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:13 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000001GTLpAAO
+            [Product2Id] => 01t61000000PjsmAAC
+            [UnitPrice] => 0
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9DJAAY
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:13 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000003N5yEAAS
+            [Product2Id] => 01t61000000PjsmAAC
+            [UnitPrice] => 0
+            [UseStandardPrice] => 1
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9DOAAY
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:14 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Name] => METROPOLITAN (ROLL)
+            [ProductCode] => 011501
+            [Description] => METROPOLITAN (ROLL)
+            [Brand__c] => CD
+            [Category__c] => 04
+            [Collection__c] => 236
+            [Country_Of_Origin__c] => FR
+            [Genre__c] => OT
+            [Manufacturer__c] => CS
+            [Non_Stock__c] => N
+            [Size_Of_Roll__c] => 01
+            [Status__c] => A
+            [Stock_Type__c] => SELECT
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01t61000000PjsrAAC
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:14 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000001GTLpAAO
+            [Product2Id] => 01t61000000PjsrAAC
+            [UnitPrice] => 0
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9DTAAY
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:15 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000003N5y4AAC
+            [Product2Id] => 01t61000000PjsrAAC
+            [UnitPrice] => 0
+            [UseStandardPrice] => 1
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9DYAAY
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:15 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Name] => METROPOLITAN (ROLL)
+            [ProductCode] => 011501
+            [Description] => METROPOLITAN (ROLL)
+            [Brand__c] => CD
+            [Category__c] => 04
+            [Collection__c] => 236
+            [Country_Of_Origin__c] => FR
+            [Genre__c] => OT
+            [Manufacturer__c] => CS
+            [Non_Stock__c] => N
+            [Size_Of_Roll__c] => 01
+            [Status__c] => A
+            [Stock_Type__c] => SELECT
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01t61000000PjswAAC
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:16 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000001GTLpAAO
+            [Product2Id] => 01t61000000PjswAAC
+            [UnitPrice] => 0
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9DdAAI
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:18 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000003N5y9AAC
+            [Product2Id] => 01t61000000PjswAAC
+            [UnitPrice] => 0
+            [UseStandardPrice] => 1
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9D0AAI
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:18 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Name] => METROPOLITAN (ROLL)
+            [ProductCode] => 011501
+            [Description] => METROPOLITAN (ROLL)
+            [Brand__c] => CD
+            [Category__c] => 04
+            [Collection__c] => 236
+            [Country_Of_Origin__c] => FR
+            [Genre__c] => OT
+            [Manufacturer__c] => CS
+            [Non_Stock__c] => N
+            [Size_Of_Roll__c] => 01
+            [Status__c] => A
+            [Stock_Type__c] => SELECT
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01t61000000Pjt1AAC
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:19 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000001GTLpAAO
+            [Product2Id] => 01t61000000Pjt1AAC
+            [UnitPrice] => 0
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9DiAAI
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:19 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000003N5yEAAS
+            [Product2Id] => 01t61000000Pjt1AAC
+            [UnitPrice] => 0
+            [UseStandardPrice] => 1
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9DnAAI
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:20 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Name] => METROPOLITAN (ROLL)
+            [ProductCode] => 012024
+            [Description] => METROPOLITAN (ROLL)
+            [Brand__c] => CD
+            [Category__c] => 04
+            [Collection__c] => 236
+            [Country_Of_Origin__c] => FR
+            [Genre__c] => OT
+            [Manufacturer__c] => CS
+            [Non_Stock__c] => N
+            [Size_Of_Roll__c] => 01
+            [Status__c] => A
+            [Stock_Type__c] => SELECT
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01t61000000Pjt6AAC
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:20 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000001GTLpAAO
+            [Product2Id] => 01t61000000Pjt6AAC
+            [UnitPrice] => 0
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9DsAAI
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:21 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000003N5y4AAC
+            [Product2Id] => 01t61000000Pjt6AAC
+            [UnitPrice] => 0
+            [UseStandardPrice] => 1
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9DxAAI
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:21 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Name] => METROPOLITAN (ROLL)
+            [ProductCode] => 012024
+            [Description] => METROPOLITAN (ROLL)
+            [Brand__c] => CD
+            [Category__c] => 04
+            [Collection__c] => 236
+            [Country_Of_Origin__c] => FR
+            [Genre__c] => OT
+            [Manufacturer__c] => CS
+            [Non_Stock__c] => N
+            [Size_Of_Roll__c] => 01
+            [Status__c] => A
+            [Stock_Type__c] => SELECT
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01t61000000PjtBAAS
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:21 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000001GTLpAAO
+            [Product2Id] => 01t61000000PjtBAAS
+            [UnitPrice] => 0
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9E2AAI
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:22 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000003N5y9AAC
+            [Product2Id] => 01t61000000PjtBAAS
+            [UnitPrice] => 0
+            [UseStandardPrice] => 1
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9E7AAI
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:22 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Name] => METROPOLITAN (ROLL)
+            [ProductCode] => 012024
+            [Description] => METROPOLITAN (ROLL)
+            [Brand__c] => CD
+            [Category__c] => 04
+            [Collection__c] => 236
+            [Country_Of_Origin__c] => FR
+            [Genre__c] => OT
+            [Manufacturer__c] => CS
+            [Non_Stock__c] => N
+            [Size_Of_Roll__c] => 01
+            [Status__c] => A
+            [Stock_Type__c] => SELECT
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01t61000000PjtGAAS
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:23 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000001GTLpAAO
+            [Product2Id] => 01t61000000PjtGAAS
+            [UnitPrice] => 0
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9ECAAY
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:23 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000003N5yEAAS
+            [Product2Id] => 01t61000000PjtGAAS
+            [UnitPrice] => 0
+            [UseStandardPrice] => 1
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9EHAAY
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:24 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Name] => METROPOLITAN (ROLL)
+            [ProductCode] => 012400
+            [Description] => METROPOLITAN (ROLL)
+            [Category__c] => 04
+            [Collection__c] => 241
+            [Country_Of_Origin__c] => FR
+            [Manufacturer__c] => CS
+            [Non_Stock__c] => N
+            [Size_Of_Roll__c] => 01
+            [Status__c] => A
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01t61000000PjtLAAS
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:24 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000001GTLpAAO
+            [Product2Id] => 01t61000000PjtLAAS
+            [UnitPrice] => 0
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9E8AAI
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:25 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000003N5y4AAC
+            [Product2Id] => 01t61000000PjtLAAS
+            [UnitPrice] => 0
+            [UseStandardPrice] => 1
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9EMAAY
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:25 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Name] => METROPOLITAN (ROLL)
+            [ProductCode] => 012400
+            [Description] => METROPOLITAN (ROLL)
+            [Category__c] => 04
+            [Collection__c] => 241
+            [Country_Of_Origin__c] => FR
+            [Manufacturer__c] => CS
+            [Non_Stock__c] => N
+            [Size_Of_Roll__c] => 01
+            [Status__c] => A
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01t61000000PjtQAAS
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:26 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000001GTLpAAO
+            [Product2Id] => 01t61000000PjtQAAS
+            [UnitPrice] => 0
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9ERAAY
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:26 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000003N5y9AAC
+            [Product2Id] => 01t61000000PjtQAAS
+            [UnitPrice] => 0
+            [UseStandardPrice] => 1
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9EWAAY
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:26 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Name] => METROPOLITAN (ROLL)
+            [ProductCode] => 012400
+            [Description] => METROPOLITAN (ROLL)
+            [Category__c] => 04
+            [Collection__c] => 241
+            [Country_Of_Origin__c] => FR
+            [Manufacturer__c] => CS
+            [Non_Stock__c] => N
+            [Size_Of_Roll__c] => 01
+            [Status__c] => A
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01t61000000PjtVAAS
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:27 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000001GTLpAAO
+            [Product2Id] => 01t61000000PjtVAAS
+            [UnitPrice] => 0
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9EIAAY
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:27 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000003N5yEAAS
+            [Product2Id] => 01t61000000PjtVAAS
+            [UnitPrice] => 0
+            [UseStandardPrice] => 1
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9EbAAI
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:28 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Name] => ROSANNA (FABRIC 2.80 WIDTH)
+            [ProductCode] => 01645280
+            [Description] => ROSANNA (FABRIC 2.80 WIDTH)
+            [Category__c] => 08
+            [Collection__c] => 247
+            [Country_Of_Origin__c] => FR
+            [Manufacturer__c] => LU
+            [Non_Stock__c] => N
+            [Size_Of_Roll__c] => 06
+            [Status__c] => IA
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01t61000000PjtaAAC
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:28 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000001GTLpAAO
+            [Product2Id] => 01t61000000PjtaAAC
+            [UnitPrice] => 100
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9EJAAY
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:29 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000003N5y4AAC
+            [Product2Id] => 01t61000000PjtaAAC
+            [UnitPrice] => 100
+            [UseStandardPrice] => 1
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9D1AAI
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:29 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Name] => ROSANNA (FABRIC 2.80 WIDTH)
+            [ProductCode] => 01645280
+            [Description] => ROSANNA (FABRIC 2.80 WIDTH)
+            [Category__c] => 08
+            [Collection__c] => 247
+            [Country_Of_Origin__c] => FR
+            [Manufacturer__c] => LU
+            [Non_Stock__c] => N
+            [Size_Of_Roll__c] => 06
+            [Status__c] => IA
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01t61000000PjtfAAC
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:30 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000001GTLpAAO
+            [Product2Id] => 01t61000000PjtfAAC
+            [UnitPrice] => 90
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9EgAAI
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:30 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000003N5y9AAC
+            [Product2Id] => 01t61000000PjtfAAC
+            [UnitPrice] => 90
+            [UseStandardPrice] => 1
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9ElAAI
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:31 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Name] => ROSANNA (FABRIC 2.80 WIDTH)
+            [ProductCode] => 01645280
+            [Description] => ROSANNA (FABRIC 2.80 WIDTH)
+            [Category__c] => 08
+            [Collection__c] => 247
+            [Country_Of_Origin__c] => FR
+            [Manufacturer__c] => LU
+            [Non_Stock__c] => N
+            [Size_Of_Roll__c] => 06
+            [Status__c] => IA
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01t61000000PjtkAAC
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:31 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000001GTLpAAO
+            [Product2Id] => 01t61000000PjtkAAC
+            [UnitPrice] => 80
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9EqAAI
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:31 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000003N5yEAAS
+            [Product2Id] => 01t61000000PjtkAAC
+            [UnitPrice] => 80
+            [UseStandardPrice] => 1
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9EvAAI
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:32 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Name] => ROSANNA (FABRIC 2.80 WIDTH)
+            [ProductCode] => 01775280
+            [Description] => ROSANNA (FABRIC 2.80 WIDTH)
+            [Category__c] => 08
+            [Collection__c] => 247
+            [Country_Of_Origin__c] => FR
+            [Manufacturer__c] => LU
+            [Non_Stock__c] => N
+            [Size_Of_Roll__c] => 06
+            [Status__c] => A
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01t61000000PjtpAAC
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:32 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000001GTLpAAO
+            [Product2Id] => 01t61000000PjtpAAC
+            [UnitPrice] => 100
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9F0AAI
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:33 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000003N5y4AAC
+            [Product2Id] => 01t61000000PjtpAAC
+            [UnitPrice] => 100
+            [UseStandardPrice] => 1
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9D2AAI
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:33 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Name] => ROSANNA (FABRIC 2.80 WIDTH)
+            [ProductCode] => 01775280
+            [Description] => ROSANNA (FABRIC 2.80 WIDTH)
+            [Category__c] => 08
+            [Collection__c] => 247
+            [Country_Of_Origin__c] => FR
+            [Manufacturer__c] => LU
+            [Non_Stock__c] => N
+            [Size_Of_Roll__c] => 06
+            [Status__c] => A
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01t61000000PjtuAAC
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:34 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000001GTLpAAO
+            [Product2Id] => 01t61000000PjtuAAC
+            [UnitPrice] => 90
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9F5AAI
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:34 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000003N5y9AAC
+            [Product2Id] => 01t61000000PjtuAAC
+            [UnitPrice] => 90
+            [UseStandardPrice] => 1
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9EXAAY
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:35 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Name] => ROSANNA (FABRIC 2.80 WIDTH)
+            [ProductCode] => 01775280
+            [Description] => ROSANNA (FABRIC 2.80 WIDTH)
+            [Category__c] => 08
+            [Collection__c] => 247
+            [Country_Of_Origin__c] => FR
+            [Manufacturer__c] => LU
+            [Non_Stock__c] => N
+            [Size_Of_Roll__c] => 06
+            [Status__c] => A
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01t61000000PjsYAAS
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:35 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000001GTLpAAO
+            [Product2Id] => 01t61000000PjsYAAS
+            [UnitPrice] => 80
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9FAAAY
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:35 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000003N5yEAAS
+            [Product2Id] => 01t61000000PjsYAAS
+            [UnitPrice] => 80
+            [UseStandardPrice] => 1
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9FFAAY
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:36 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Name] => METROPOLITAN (ROLL)
+            [ProductCode] => 020419
+            [Description] => METROPOLITAN (ROLL)
+            [Category__c] => 04
+            [Collection__c] => 241
+            [Country_Of_Origin__c] => FR
+            [Manufacturer__c] => CS
+            [Non_Stock__c] => N
+            [Size_Of_Roll__c] => 01
+            [Status__c] => A
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01t61000000PjtzAAC
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:36 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000001GTLpAAO
+            [Product2Id] => 01t61000000PjtzAAC
+            [UnitPrice] => 0
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9FKAAY
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:37 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000003N5y4AAC
+            [Product2Id] => 01t61000000PjtzAAC
+            [UnitPrice] => 0
+            [UseStandardPrice] => 1
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9FGAAY
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:37 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Name] => METROPOLITAN (ROLL)
+            [ProductCode] => 020419
+            [Description] => METROPOLITAN (ROLL)
+            [Category__c] => 04
+            [Collection__c] => 241
+            [Country_Of_Origin__c] => FR
+            [Manufacturer__c] => CS
+            [Non_Stock__c] => N
+            [Size_Of_Roll__c] => 01
+            [Status__c] => A
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01t61000000Pju4AAC
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:38 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000001GTLpAAO
+            [Product2Id] => 01t61000000Pju4AAC
+            [UnitPrice] => 0
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9E9AAI
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:38 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000003N5y9AAC
+            [Product2Id] => 01t61000000Pju4AAC
+            [UnitPrice] => 0
+            [UseStandardPrice] => 1
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9FPAAY
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:38 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Name] => METROPOLITAN (ROLL)
+            [ProductCode] => 020419
+            [Description] => METROPOLITAN (ROLL)
+            [Category__c] => 04
+            [Collection__c] => 241
+            [Country_Of_Origin__c] => FR
+            [Manufacturer__c] => CS
+            [Non_Stock__c] => N
+            [Size_Of_Roll__c] => 01
+            [Status__c] => A
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01t61000000Pju9AAC
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:39 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000001GTLpAAO
+            [Product2Id] => 01t61000000Pju9AAC
+            [UnitPrice] => 0
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9FUAAY
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:39 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000003N5yEAAS
+            [Product2Id] => 01t61000000Pju9AAC
+            [UnitPrice] => 0
+            [UseStandardPrice] => 1
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9FQAAY
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:40 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Name] => METROPOLITAN (ROLL)
+            [ProductCode] => 020520
+            [Description] => METROPOLITAN (ROLL)
+            [Category__c] => 04
+            [Collection__c] => 241
+            [Country_Of_Origin__c] => FR
+            [Manufacturer__c] => CS
+            [Non_Stock__c] => N
+            [Size_Of_Roll__c] => 01
+            [Status__c] => A
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01t61000000PjtMAAS
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:40 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000001GTLpAAO
+            [Product2Id] => 01t61000000PjtMAAS
+            [UnitPrice] => 0
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9FZAAY
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:40 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000003N5y4AAC
+            [Product2Id] => 01t61000000PjtMAAS
+            [UnitPrice] => 0
+            [UseStandardPrice] => 1
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9D3AAI
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:45 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Name] => METROPOLITAN (ROLL)
+            [ProductCode] => 020520
+            [Description] => METROPOLITAN (ROLL)
+            [Category__c] => 04
+            [Collection__c] => 241
+            [Country_Of_Origin__c] => FR
+            [Manufacturer__c] => CS
+            [Non_Stock__c] => N
+            [Size_Of_Roll__c] => 01
+            [Status__c] => A
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01t61000000PjuEAAS
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:45 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000001GTLpAAO
+            [Product2Id] => 01t61000000PjuEAAS
+            [UnitPrice] => 0
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9FeAAI
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:46 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000003N5y9AAC
+            [Product2Id] => 01t61000000PjuEAAS
+            [UnitPrice] => 0
+            [UseStandardPrice] => 1
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9EcAAI
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:46 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Name] => METROPOLITAN (ROLL)
+            [ProductCode] => 020520
+            [Description] => METROPOLITAN (ROLL)
+            [Category__c] => 04
+            [Collection__c] => 241
+            [Country_Of_Origin__c] => FR
+            [Manufacturer__c] => CS
+            [Non_Stock__c] => N
+            [Size_Of_Roll__c] => 01
+            [Status__c] => A
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01t61000000PjuJAAS
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:47 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000001GTLpAAO
+            [Product2Id] => 01t61000000PjuJAAS
+            [UnitPrice] => 0
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9FjAAI
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:47 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000003N5yEAAS
+            [Product2Id] => 01t61000000PjuJAAS
+            [UnitPrice] => 0
+            [UseStandardPrice] => 1
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9FoAAI
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:47 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Name] => DISCONTINUED - IN TOUCH WHITE BORDER 5 MTS
+            [ProductCode] => 0300-1
+            [Description] => DISCONTINUED - IN TOUCH WHITE BORDER 5 MTS
+            [Brand__c] => EC
+            [Category__c] => 01
+            [Collection__c] => 263
+            [Country_Of_Origin__c] => GER
+            [Genre__c] => RO
+            [Manufacturer__c] => EC
+            [Non_Stock__c] => N
+            [Size_Of_Roll__c] => 03
+            [Status__c] => IA
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01t61000000PjuOAAS
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:48 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000001GTLpAAO
+            [Product2Id] => 01t61000000PjuOAAS
+            [UnitPrice] => 55
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9ErAAI
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:48 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000003N5y4AAC
+            [Product2Id] => 01t61000000PjuOAAS
+            [UnitPrice] => 55
+            [UseStandardPrice] => 1
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9FtAAI
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:49 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Name] => DISCONTINUED - IN TOUCH WHITE BORDER 5 MTS
+            [ProductCode] => 0300-1
+            [Description] => DISCONTINUED - IN TOUCH WHITE BORDER 5 MTS
+            [Brand__c] => EC
+            [Category__c] => 01
+            [Collection__c] => 263
+            [Country_Of_Origin__c] => GER
+            [Genre__c] => RO
+            [Manufacturer__c] => EC
+            [Non_Stock__c] => N
+            [Size_Of_Roll__c] => 03
+            [Status__c] => IA
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01t61000000PjssAAC
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:49 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000001GTLpAAO
+            [Product2Id] => 01t61000000PjssAAC
+            [UnitPrice] => 45
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9FyAAI
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:50 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000003N5y9AAC
+            [Product2Id] => 01t61000000PjssAAC
+            [UnitPrice] => 45
+            [UseStandardPrice] => 1
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9G3AAI
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:50 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Name] => DISCONTINUED - IN TOUCH WHITE BORDER 5 MTS
+            [ProductCode] => 0300-1
+            [Description] => DISCONTINUED - IN TOUCH WHITE BORDER 5 MTS
+            [Brand__c] => EC
+            [Category__c] => 01
+            [Collection__c] => 263
+            [Country_Of_Origin__c] => GER
+            [Genre__c] => RO
+            [Manufacturer__c] => EC
+            [Non_Stock__c] => N
+            [Size_Of_Roll__c] => 03
+            [Status__c] => IA
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01t61000000PjuTAAS
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:51 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000001GTLpAAO
+            [Product2Id] => 01t61000000PjuTAAS
+            [UnitPrice] => 35
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9G8AAI
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:51 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000003N5yEAAS
+            [Product2Id] => 01t61000000PjuTAAS
+            [UnitPrice] => 35
+            [UseStandardPrice] => 1
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9GDAAY
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:51 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Name] => PROFI DECO BORDER
+            [ProductCode] => 0300-1(O)
+            [Description] => PROFI DECO BORDER
+            [Brand__c] => N/A
+            [Category__c] => N/A
+            [Collection__c] => 783
+            [Country_Of_Origin__c] => N/A
+            [Date_Launched__c] => 2015
+            [Genre__c] => N/A
+            [Manufacturer__c] => N/A
+            [Non_Stock__c] => N
+            [Size_Of_Roll__c] => N/A
+            [Status__c] => A
+            [Stock_Type__c] => N/A
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01t61000000PjuYAAS
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:52 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000001GTLpAAO
+            [Product2Id] => 01t61000000PjuYAAS
+            [UnitPrice] => 0
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9GIAAY
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:52 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000003N5y4AAC
+            [Product2Id] => 01t61000000PjuYAAS
+            [UnitPrice] => 0
+            [UseStandardPrice] => 1
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9GNAAY
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:53 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Name] => PROFI DECO BORDER
+            [ProductCode] => 0300-1(O)
+            [Description] => PROFI DECO BORDER
+            [Brand__c] => N/A
+            [Category__c] => N/A
+            [Collection__c] => 783
+            [Country_Of_Origin__c] => N/A
+            [Date_Launched__c] => 2015
+            [Genre__c] => N/A
+            [Manufacturer__c] => N/A
+            [Non_Stock__c] => N
+            [Size_Of_Roll__c] => N/A
+            [Status__c] => A
+            [Stock_Type__c] => N/A
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01t61000000PjudAAC
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:53 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000001GTLpAAO
+            [Product2Id] => 01t61000000PjudAAC
+            [UnitPrice] => 0
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9GSAAY
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:54 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000003N5y9AAC
+            [Product2Id] => 01t61000000PjudAAC
+            [UnitPrice] => 0
+            [UseStandardPrice] => 1
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9GEAAY
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:56 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Name] => PROFI DECO BORDER
+            [ProductCode] => 0300-1(O)
+            [Description] => PROFI DECO BORDER
+            [Brand__c] => N/A
+            [Category__c] => N/A
+            [Collection__c] => 783
+            [Country_Of_Origin__c] => N/A
+            [Date_Launched__c] => 2015
+            [Genre__c] => N/A
+            [Manufacturer__c] => N/A
+            [Non_Stock__c] => N
+            [Size_Of_Roll__c] => N/A
+            [Status__c] => A
+            [Stock_Type__c] => N/A
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01t61000000PjtlAAC
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:56 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000001GTLpAAO
+            [Product2Id] => 01t61000000PjtlAAC
+            [UnitPrice] => 0
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9GXAAY
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:57 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000003N5yEAAS
+            [Product2Id] => 01t61000000PjtlAAC
+            [UnitPrice] => 0
+            [UseStandardPrice] => 1
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9GcAAI
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:58 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Name] => IN TOUCH WHITE BORDER 5 MTS
+            [ProductCode] => 0301-1
+            [Description] => IN TOUCH WHITE BORDER 5 MTS
+            [Brand__c] => EC
+            [Category__c] => 01
+            [Collection__c] => 263
+            [Country_Of_Origin__c] => GER
+            [Genre__c] => RO
+            [Manufacturer__c] => EC
+            [Non_Stock__c] => N
+            [Size_Of_Roll__c] => 03
+            [Status__c] => A
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01t61000000Pju0AAC
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:58 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000001GTLpAAO
+            [Product2Id] => 01t61000000Pju0AAC
+            [UnitPrice] => 55
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9GhAAI
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:58 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000003N5y4AAC
+            [Product2Id] => 01t61000000Pju0AAC
+            [UnitPrice] => 55
+            [UseStandardPrice] => 1
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9GmAAI
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:59 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Name] => IN TOUCH WHITE BORDER 5 MTS
+            [ProductCode] => 0301-1
+            [Description] => IN TOUCH WHITE BORDER 5 MTS
+            [Brand__c] => EC
+            [Category__c] => 01
+            [Collection__c] => 263
+            [Country_Of_Origin__c] => GER
+            [Genre__c] => RO
+            [Manufacturer__c] => EC
+            [Non_Stock__c] => N
+            [Size_Of_Roll__c] => 03
+            [Status__c] => A
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01t61000000PjuiAAC
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:20:59 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000001GTLpAAO
+            [Product2Id] => 01t61000000PjuiAAC
+            [UnitPrice] => 45
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9GrAAI
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:00 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000003N5y9AAC
+            [Product2Id] => 01t61000000PjuiAAC
+            [UnitPrice] => 45
+            [UseStandardPrice] => 1
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9GwAAI
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:00 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Name] => IN TOUCH WHITE BORDER 5 MTS
+            [ProductCode] => 0301-1
+            [Description] => IN TOUCH WHITE BORDER 5 MTS
+            [Brand__c] => EC
+            [Category__c] => 01
+            [Collection__c] => 263
+            [Country_Of_Origin__c] => GER
+            [Genre__c] => RO
+            [Manufacturer__c] => EC
+            [Non_Stock__c] => N
+            [Size_Of_Roll__c] => 03
+            [Status__c] => A
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01t61000000PjunAAC
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:01 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000001GTLpAAO
+            [Product2Id] => 01t61000000PjunAAC
+            [UnitPrice] => 35
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9H1AAI
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:01 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000003N5yEAAS
+            [Product2Id] => 01t61000000PjunAAC
+            [UnitPrice] => 35
+            [UseStandardPrice] => 1
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9H6AAI
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:02 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Name] => PROFI DECO BORDER
+            [ProductCode] => 0301-1(O)
+            [Description] => PROFI DECO BORDER
+            [Brand__c] => N/A
+            [Category__c] => N/A
+            [Collection__c] => 783
+            [Country_Of_Origin__c] => N/A
+            [Date_Launched__c] => 2015
+            [Genre__c] => N/A
+            [Manufacturer__c] => N/A
+            [Non_Stock__c] => N
+            [Size_Of_Roll__c] => N/A
+            [Status__c] => A
+            [Stock_Type__c] => N/A
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01t61000000PjusAAC
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:02 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000001GTLpAAO
+            [Product2Id] => 01t61000000PjusAAC
+            [UnitPrice] => 0
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9HBAAY
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:03 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000003N5y4AAC
+            [Product2Id] => 01t61000000PjusAAC
+            [UnitPrice] => 0
+            [UseStandardPrice] => 1
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9HGAAY
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:03 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Name] => PROFI DECO BORDER
+            [ProductCode] => 0301-1(O)
+            [Description] => PROFI DECO BORDER
+            [Brand__c] => N/A
+            [Category__c] => N/A
+            [Collection__c] => 783
+            [Country_Of_Origin__c] => N/A
+            [Date_Launched__c] => 2015
+            [Genre__c] => N/A
+            [Manufacturer__c] => N/A
+            [Non_Stock__c] => N
+            [Size_Of_Roll__c] => N/A
+            [Status__c] => A
+            [Stock_Type__c] => N/A
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01t61000000PjuxAAC
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:03 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000001GTLpAAO
+            [Product2Id] => 01t61000000PjuxAAC
+            [UnitPrice] => 0
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9HLAAY
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:04 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000003N5y9AAC
+            [Product2Id] => 01t61000000PjuxAAC
+            [UnitPrice] => 0
+            [UseStandardPrice] => 1
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9E3AAI
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:04 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Name] => PROFI DECO BORDER
+            [ProductCode] => 0301-1(O)
+            [Description] => PROFI DECO BORDER
+            [Brand__c] => N/A
+            [Category__c] => N/A
+            [Collection__c] => 783
+            [Country_Of_Origin__c] => N/A
+            [Date_Launched__c] => 2015
+            [Genre__c] => N/A
+            [Manufacturer__c] => N/A
+            [Non_Stock__c] => N
+            [Size_Of_Roll__c] => N/A
+            [Status__c] => A
+            [Stock_Type__c] => N/A
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01t61000000Pjv2AAC
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:05 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000001GTLpAAO
+            [Product2Id] => 01t61000000Pjv2AAC
+            [UnitPrice] => 0
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9HQAAY
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:05 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000003N5yEAAS
+            [Product2Id] => 01t61000000Pjv2AAC
+            [UnitPrice] => 0
+            [UseStandardPrice] => 1
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9HVAAY
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:06 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Name] => DISCONTINUED - IN TOUCH WHITE BORDER 5 MTS
+            [ProductCode] => 0310-1
+            [Description] => DISCONTINUED - IN TOUCH WHITE BORDER 5 MTS
+            [Brand__c] => EC
+            [Category__c] => 01
+            [Collection__c] => 263
+            [Country_Of_Origin__c] => GER
+            [Genre__c] => RO
+            [Manufacturer__c] => EC
+            [Non_Stock__c] => N
+            [Size_Of_Roll__c] => 03
+            [Status__c] => IA
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01t61000000Pjv7AAC
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:06 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000001GTLpAAO
+            [Product2Id] => 01t61000000Pjv7AAC
+            [UnitPrice] => 55
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9HaAAI
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:07 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000003N5y4AAC
+            [Product2Id] => 01t61000000Pjv7AAC
+            [UnitPrice] => 55
+            [UseStandardPrice] => 1
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9HCAAY
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:07 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Name] => DISCONTINUED - IN TOUCH WHITE BORDER 5 MTS
+            [ProductCode] => 0310-1
+            [Description] => DISCONTINUED - IN TOUCH WHITE BORDER 5 MTS
+            [Brand__c] => EC
+            [Category__c] => 01
+            [Collection__c] => 263
+            [Country_Of_Origin__c] => GER
+            [Genre__c] => RO
+            [Manufacturer__c] => EC
+            [Non_Stock__c] => N
+            [Size_Of_Roll__c] => 03
+            [Status__c] => IA
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01t61000000PjvCAAS
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:07 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000001GTLpAAO
+            [Product2Id] => 01t61000000PjvCAAS
+            [UnitPrice] => 45
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9HfAAI
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:08 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000003N5y9AAC
+            [Product2Id] => 01t61000000PjvCAAS
+            [UnitPrice] => 45
+            [UseStandardPrice] => 1
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9HWAAY
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:08 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Name] => DISCONTINUED - IN TOUCH WHITE BORDER 5 MTS
+            [ProductCode] => 0310-1
+            [Description] => DISCONTINUED - IN TOUCH WHITE BORDER 5 MTS
+            [Brand__c] => EC
+            [Category__c] => 01
+            [Collection__c] => 263
+            [Country_Of_Origin__c] => GER
+            [Genre__c] => RO
+            [Manufacturer__c] => EC
+            [Non_Stock__c] => N
+            [Size_Of_Roll__c] => 03
+            [Status__c] => IA
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01t61000000PjvHAAS
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:09 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000001GTLpAAO
+            [Product2Id] => 01t61000000PjvHAAS
+            [UnitPrice] => 35
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9GsAAI
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:09 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000003N5yEAAS
+            [Product2Id] => 01t61000000PjvHAAS
+            [UnitPrice] => 35
+            [UseStandardPrice] => 1
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9HkAAI
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:10 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Name] => PROFI DECO BORDER
+            [ProductCode] => 0310-1(O)
+            [Description] => PROFI DECO BORDER
+            [Brand__c] => N/A
+            [Category__c] => N/A
+            [Collection__c] => 783
+            [Country_Of_Origin__c] => N/A
+            [Date_Launched__c] => 2015
+            [Genre__c] => N/A
+            [Manufacturer__c] => N/A
+            [Non_Stock__c] => N
+            [Size_Of_Roll__c] => N/A
+            [Status__c] => A
+            [Stock_Type__c] => N/A
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01t61000000PjvMAAS
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:10 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000001GTLpAAO
+            [Product2Id] => 01t61000000PjvMAAS
+            [UnitPrice] => 0
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9FuAAI
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:11 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000003N5y4AAC
+            [Product2Id] => 01t61000000PjvMAAS
+            [UnitPrice] => 0
+            [UseStandardPrice] => 1
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9EsAAI
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:11 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Name] => PROFI DECO BORDER
+            [ProductCode] => 0310-1(O)
+            [Description] => PROFI DECO BORDER
+            [Brand__c] => N/A
+            [Category__c] => N/A
+            [Collection__c] => 783
+            [Country_Of_Origin__c] => N/A
+            [Date_Launched__c] => 2015
+            [Genre__c] => N/A
+            [Manufacturer__c] => N/A
+            [Non_Stock__c] => N
+            [Size_Of_Roll__c] => N/A
+            [Status__c] => A
+            [Stock_Type__c] => N/A
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01t61000000PjvRAAS
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:12 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000001GTLpAAO
+            [Product2Id] => 01t61000000PjvRAAS
+            [UnitPrice] => 0
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9HpAAI
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:12 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000003N5y9AAC
+            [Product2Id] => 01t61000000PjvRAAS
+            [UnitPrice] => 0
+            [UseStandardPrice] => 1
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9HuAAI
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:12 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Name] => PROFI DECO BORDER
+            [ProductCode] => 0310-1(O)
+            [Description] => PROFI DECO BORDER
+            [Brand__c] => N/A
+            [Category__c] => N/A
+            [Collection__c] => 783
+            [Country_Of_Origin__c] => N/A
+            [Date_Launched__c] => 2015
+            [Genre__c] => N/A
+            [Manufacturer__c] => N/A
+            [Non_Stock__c] => N
+            [Size_Of_Roll__c] => N/A
+            [Status__c] => A
+            [Stock_Type__c] => N/A
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01t61000000PjvWAAS
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:13 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000001GTLpAAO
+            [Product2Id] => 01t61000000PjvWAAS
+            [UnitPrice] => 0
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9H2AAI
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:13 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000003N5yEAAS
+            [Product2Id] => 01t61000000PjvWAAS
+            [UnitPrice] => 0
+            [UseStandardPrice] => 1
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9HzAAI
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:14 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Name] => PROFI DECO BORDER
+            [ProductCode] => 0315-1(O)
+            [Description] => PROFI DECO BORDER
+            [Brand__c] => N/A
+            [Category__c] => N/A
+            [Collection__c] => 783
+            [Country_Of_Origin__c] => N/A
+            [Date_Launched__c] => 2015
+            [Genre__c] => N/A
+            [Manufacturer__c] => N/A
+            [Non_Stock__c] => N
+            [Size_Of_Roll__c] => N/A
+            [Status__c] => A
+            [Stock_Type__c] => N/A
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01t61000000PjuyAAC
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:14 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000001GTLpAAO
+            [Product2Id] => 01t61000000PjuyAAC
+            [UnitPrice] => 0
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9I4AAI
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:15 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000003N5y4AAC
+            [Product2Id] => 01t61000000PjuyAAC
+            [UnitPrice] => 0
+            [UseStandardPrice] => 1
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9I9AAI
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:15 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Name] => PROFI DECO BORDER
+            [ProductCode] => 0315-1(O)
+            [Description] => PROFI DECO BORDER
+            [Brand__c] => N/A
+            [Category__c] => N/A
+            [Collection__c] => 783
+            [Country_Of_Origin__c] => N/A
+            [Date_Launched__c] => 2015
+            [Genre__c] => N/A
+            [Manufacturer__c] => N/A
+            [Non_Stock__c] => N
+            [Size_Of_Roll__c] => N/A
+            [Status__c] => A
+            [Stock_Type__c] => N/A
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01t61000000PjvbAAC
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:16 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000001GTLpAAO
+            [Product2Id] => 01t61000000PjvbAAC
+            [UnitPrice] => 0
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9IEAAY
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:16 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000003N5y9AAC
+            [Product2Id] => 01t61000000PjvbAAC
+            [UnitPrice] => 0
+            [UseStandardPrice] => 1
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9IJAAY
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:16 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Name] => PROFI DECO BORDER
+            [ProductCode] => 0315-1(O)
+            [Description] => PROFI DECO BORDER
+            [Brand__c] => N/A
+            [Category__c] => N/A
+            [Collection__c] => 783
+            [Country_Of_Origin__c] => N/A
+            [Date_Launched__c] => 2015
+            [Genre__c] => N/A
+            [Manufacturer__c] => N/A
+            [Non_Stock__c] => N
+            [Size_Of_Roll__c] => N/A
+            [Status__c] => A
+            [Stock_Type__c] => N/A
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01t61000000PjvXAAS
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:17 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000001GTLpAAO
+            [Product2Id] => 01t61000000PjvXAAS
+            [UnitPrice] => 0
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9IOAAY
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:17 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000003N5yEAAS
+            [Product2Id] => 01t61000000PjvXAAS
+            [UnitPrice] => 0
+            [UseStandardPrice] => 1
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9HbAAI
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:18 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Name] => IN TOUCH WHITE BORDER 5 MTS
+            [ProductCode] => 0317-1
+            [Description] => IN TOUCH WHITE BORDER 5 MTS
+            [Brand__c] => EC
+            [Category__c] => 01
+            [Collection__c] => 263
+            [Country_Of_Origin__c] => GER
+            [Genre__c] => RO
+            [Manufacturer__c] => EC
+            [Non_Stock__c] => N
+            [Size_Of_Roll__c] => 03
+            [Status__c] => IA
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01t61000000PjvgAAC
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:18 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000001GTLpAAO
+            [Product2Id] => 01t61000000PjvgAAC
+            [UnitPrice] => 55
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9ITAAY
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:18 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000003N5y4AAC
+            [Product2Id] => 01t61000000PjvgAAC
+            [UnitPrice] => 55
+            [UseStandardPrice] => 1
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9HHAAY
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:19 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Name] => IN TOUCH WHITE BORDER 5 MTS
+            [ProductCode] => 0317-1
+            [Description] => IN TOUCH WHITE BORDER 5 MTS
+            [Brand__c] => EC
+            [Category__c] => 01
+            [Collection__c] => 263
+            [Country_Of_Origin__c] => GER
+            [Genre__c] => RO
+            [Manufacturer__c] => EC
+            [Non_Stock__c] => N
+            [Size_Of_Roll__c] => 03
+            [Status__c] => IA
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01t61000000Pju1AAC
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:19 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000001GTLpAAO
+            [Product2Id] => 01t61000000Pju1AAC
+            [UnitPrice] => 45
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9E4AAI
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:20 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000003N5y9AAC
+            [Product2Id] => 01t61000000Pju1AAC
+            [UnitPrice] => 45
+            [UseStandardPrice] => 1
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9FpAAI
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:20 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Name] => IN TOUCH WHITE BORDER 5 MTS
+            [ProductCode] => 0317-1
+            [Description] => IN TOUCH WHITE BORDER 5 MTS
+            [Brand__c] => EC
+            [Category__c] => 01
+            [Collection__c] => 263
+            [Country_Of_Origin__c] => GER
+            [Genre__c] => RO
+            [Manufacturer__c] => EC
+            [Non_Stock__c] => N
+            [Size_Of_Roll__c] => 03
+            [Status__c] => IA
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01t61000000PjvlAAC
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:20 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000001GTLpAAO
+            [Product2Id] => 01t61000000PjvlAAC
+            [UnitPrice] => 35
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9HqAAI
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:21 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000003N5yEAAS
+            [Product2Id] => 01t61000000PjvlAAC
+            [UnitPrice] => 35
+            [UseStandardPrice] => 1
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9IYAAY
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:21 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Name] => PROFI DECO BORDER
+            [ProductCode] => 0317-1(O)
+            [Description] => PROFI DECO BORDER
+            [Brand__c] => N/A
+            [Category__c] => N/A
+            [Collection__c] => 783
+            [Country_Of_Origin__c] => N/A
+            [Date_Launched__c] => 2015
+            [Genre__c] => N/A
+            [Manufacturer__c] => N/A
+            [Non_Stock__c] => N
+            [Size_Of_Roll__c] => N/A
+            [Status__c] => A
+            [Stock_Type__c] => N/A
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01t61000000PjvqAAC
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:22 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000001GTLpAAO
+            [Product2Id] => 01t61000000PjvqAAC
+            [UnitPrice] => 0
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9KoAAI
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:22 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000003N5y4AAC
+            [Product2Id] => 01t61000000PjvqAAC
+            [UnitPrice] => 0
+            [UseStandardPrice] => 1
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9LhAAI
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:22 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Name] => PROFI DECO BORDER
+            [ProductCode] => 0317-1(O)
+            [Description] => PROFI DECO BORDER
+            [Brand__c] => N/A
+            [Category__c] => N/A
+            [Collection__c] => 783
+            [Country_Of_Origin__c] => N/A
+            [Date_Launched__c] => 2015
+            [Genre__c] => N/A
+            [Manufacturer__c] => N/A
+            [Non_Stock__c] => N
+            [Size_Of_Roll__c] => N/A
+            [Status__c] => A
+            [Stock_Type__c] => N/A
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01t61000000PjvvAAC
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:23 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000001GTLpAAO
+            [Product2Id] => 01t61000000PjvvAAC
+            [UnitPrice] => 0
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9M1AAI
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:23 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000003N5y9AAC
+            [Product2Id] => 01t61000000PjvvAAC
+            [UnitPrice] => 0
+            [UseStandardPrice] => 1
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9IKAAY
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:24 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Name] => PROFI DECO BORDER
+            [ProductCode] => 0317-1(O)
+            [Description] => PROFI DECO BORDER
+            [Brand__c] => N/A
+            [Category__c] => N/A
+            [Collection__c] => 783
+            [Country_Of_Origin__c] => N/A
+            [Date_Launched__c] => 2015
+            [Genre__c] => N/A
+            [Manufacturer__c] => N/A
+            [Non_Stock__c] => N
+            [Size_Of_Roll__c] => N/A
+            [Status__c] => A
+            [Stock_Type__c] => N/A
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01t61000000Pjw0AAC
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:26 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000001GTLpAAO
+            [Product2Id] => 01t61000000Pjw0AAC
+            [UnitPrice] => 0
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9HrAAI
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:26 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000003N5yEAAS
+            [Product2Id] => 01t61000000Pjw0AAC
+            [UnitPrice] => 0
+            [UseStandardPrice] => 1
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9GxAAI
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:27 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Name] => IN TOUCH WHITE BORDER 5 MTS
+            [ProductCode] => 0318-1
+            [Description] => IN TOUCH WHITE BORDER 5 MTS
+            [Brand__c] => EC
+            [Category__c] => 01
+            [Collection__c] => 263
+            [Country_Of_Origin__c] => GER
+            [Genre__c] => RO
+            [Manufacturer__c] => EC
+            [Non_Stock__c] => N
+            [Size_Of_Roll__c] => 03
+            [Status__c] => IA
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01t61000000Pjw5AAC
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:27 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000001GTLpAAO
+            [Product2Id] => 01t61000000Pjw5AAC
+            [UnitPrice] => 55
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9E5AAI
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:28 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000003N5y4AAC
+            [Product2Id] => 01t61000000Pjw5AAC
+            [UnitPrice] => 55
+            [UseStandardPrice] => 1
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9HsAAI
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:28 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Name] => IN TOUCH WHITE BORDER 5 MTS
+            [ProductCode] => 0318-1
+            [Description] => IN TOUCH WHITE BORDER 5 MTS
+            [Brand__c] => EC
+            [Category__c] => 01
+            [Collection__c] => 263
+            [Country_Of_Origin__c] => GER
+            [Genre__c] => RO
+            [Manufacturer__c] => EC
+            [Non_Stock__c] => N
+            [Size_Of_Roll__c] => 03
+            [Status__c] => IA
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01t61000000PjvmAAC
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:29 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000001GTLpAAO
+            [Product2Id] => 01t61000000PjvmAAC
+            [UnitPrice] => 45
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9VrAAI
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:29 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000003N5y9AAC
+            [Product2Id] => 01t61000000PjvmAAC
+            [UnitPrice] => 45
+            [UseStandardPrice] => 1
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9VwAAI
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:29 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Name] => IN TOUCH WHITE BORDER 5 MTS
+            [ProductCode] => 0318-1
+            [Description] => IN TOUCH WHITE BORDER 5 MTS
+            [Brand__c] => EC
+            [Category__c] => 01
+            [Collection__c] => 263
+            [Country_Of_Origin__c] => GER
+            [Genre__c] => RO
+            [Manufacturer__c] => EC
+            [Non_Stock__c] => N
+            [Size_Of_Roll__c] => 03
+            [Status__c] => IA
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01t61000000PjwAAAS
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:30 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000001GTLpAAO
+            [Product2Id] => 01t61000000PjwAAAS
+            [UnitPrice] => 35
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9FfAAI
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:30 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000003N5yEAAS
+            [Product2Id] => 01t61000000PjwAAAS
+            [UnitPrice] => 35
+            [UseStandardPrice] => 1
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9YqAAI
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:31 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Name] => PROFI DECO BORDER
+            [ProductCode] => 0318-1(O)
+            [Description] => PROFI DECO BORDER
+            [Brand__c] => N/A
+            [Category__c] => N/A
+            [Collection__c] => 783
+            [Country_Of_Origin__c] => N/A
+            [Date_Launched__c] => 2015
+            [Genre__c] => N/A
+            [Manufacturer__c] => N/A
+            [Non_Stock__c] => N
+            [Size_Of_Roll__c] => N/A
+            [Status__c] => A
+            [Stock_Type__c] => N/A
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01t61000000PjvYAAS
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:31 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000001GTLpAAO
+            [Product2Id] => 01t61000000PjvYAAS
+            [UnitPrice] => 0
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9EYAAY
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:32 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000003N5y4AAC
+            [Product2Id] => 01t61000000PjvYAAS
+            [UnitPrice] => 0
+            [UseStandardPrice] => 1
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9GtAAI
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:32 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Name] => PROFI DECO BORDER
+            [ProductCode] => 0318-1(O)
+            [Description] => PROFI DECO BORDER
+            [Brand__c] => N/A
+            [Category__c] => N/A
+            [Collection__c] => 783
+            [Country_Of_Origin__c] => N/A
+            [Date_Launched__c] => 2015
+            [Genre__c] => N/A
+            [Manufacturer__c] => N/A
+            [Non_Stock__c] => N
+            [Size_Of_Roll__c] => N/A
+            [Status__c] => A
+            [Stock_Type__c] => N/A
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01t61000000PjwFAAS
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:32 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000001GTLpAAO
+            [Product2Id] => 01t61000000PjwFAAS
+            [UnitPrice] => 0
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9ZKAAY
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:33 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000003N5y9AAC
+            [Product2Id] => 01t61000000PjwFAAS
+            [UnitPrice] => 0
+            [UseStandardPrice] => 1
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9a3AAA
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:33 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Name] => PROFI DECO BORDER
+            [ProductCode] => 0318-1(O)
+            [Description] => PROFI DECO BORDER
+            [Brand__c] => N/A
+            [Category__c] => N/A
+            [Collection__c] => 783
+            [Country_Of_Origin__c] => N/A
+            [Date_Launched__c] => 2015
+            [Genre__c] => N/A
+            [Manufacturer__c] => N/A
+            [Non_Stock__c] => N
+            [Size_Of_Roll__c] => N/A
+            [Status__c] => A
+            [Stock_Type__c] => N/A
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01t61000000PjwKAAS
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:34 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000001GTLpAAO
+            [Product2Id] => 01t61000000PjwKAAS
+            [UnitPrice] => 0
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9cEAAQ
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:34 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000003N5yEAAS
+            [Product2Id] => 01t61000000PjwKAAS
+            [UnitPrice] => 0
+            [UseStandardPrice] => 1
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9EZAAY
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:34 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Name] => IN TOUCH WHITE BORDER 5 MTS
+            [ProductCode] => 0319-1
+            [Description] => IN TOUCH WHITE BORDER 5 MTS
+            [Brand__c] => EC
+            [Category__c] => 01
+            [Collection__c] => 263
+            [Country_Of_Origin__c] => GER
+            [Genre__c] => RO
+            [Manufacturer__c] => EC
+            [Non_Stock__c] => N
+            [Size_Of_Roll__c] => 03
+            [Status__c] => IA
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01t61000000Pjw1AAC
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:35 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000001GTLpAAO
+            [Product2Id] => 01t61000000Pjw1AAC
+            [UnitPrice] => 55
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9M2AAI
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:35 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000003N5y4AAC
+            [Product2Id] => 01t61000000Pjw1AAC
+            [UnitPrice] => 55
+            [UseStandardPrice] => 1
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9IUAAY
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:36 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Name] => IN TOUCH WHITE BORDER 5 MTS
+            [ProductCode] => 0319-1
+            [Description] => IN TOUCH WHITE BORDER 5 MTS
+            [Brand__c] => EC
+            [Category__c] => 01
+            [Collection__c] => 263
+            [Country_Of_Origin__c] => GER
+            [Genre__c] => RO
+            [Manufacturer__c] => EC
+            [Non_Stock__c] => N
+            [Size_Of_Roll__c] => 03
+            [Status__c] => IA
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01t61000000PjwPAAS
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:36 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000001GTLpAAO
+            [Product2Id] => 01t61000000PjwPAAS
+            [UnitPrice] => 45
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9g6AAA
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:37 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000003N5y9AAC
+            [Product2Id] => 01t61000000PjwPAAS
+            [UnitPrice] => 45
+            [UseStandardPrice] => 1
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9HgAAI
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:37 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Name] => IN TOUCH WHITE BORDER 5 MTS
+            [ProductCode] => 0319-1
+            [Description] => IN TOUCH WHITE BORDER 5 MTS
+            [Brand__c] => EC
+            [Category__c] => 01
+            [Collection__c] => 263
+            [Country_Of_Origin__c] => GER
+            [Genre__c] => RO
+            [Manufacturer__c] => EC
+            [Non_Stock__c] => N
+            [Size_Of_Roll__c] => 03
+            [Status__c] => IA
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01t61000000PjwUAAS
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:37 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000001GTLpAAO
+            [Product2Id] => 01t61000000PjwUAAS
+            [UnitPrice] => 35
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9HhAAI
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:38 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000003N5yEAAS
+            [Product2Id] => 01t61000000PjwUAAS
+            [UnitPrice] => 35
+            [UseStandardPrice] => 1
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9jUAAQ
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:38 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Name] => PROFI DECO BORDER
+            [ProductCode] => 0319-1(O)
+            [Description] => PROFI DECO BORDER
+            [Brand__c] => N/A
+            [Category__c] => N/A
+            [Collection__c] => 783
+            [Country_Of_Origin__c] => N/A
+            [Date_Launched__c] => 2015
+            [Genre__c] => N/A
+            [Manufacturer__c] => N/A
+            [Non_Stock__c] => N
+            [Size_Of_Roll__c] => N/A
+            [Status__c] => A
+            [Stock_Type__c] => N/A
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01t61000000PjwZAAS
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:39 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000001GTLpAAO
+            [Product2Id] => 01t61000000PjwZAAS
+            [UnitPrice] => 0
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9FgAAI
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:39 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000003N5y4AAC
+            [Product2Id] => 01t61000000PjwZAAS
+            [UnitPrice] => 0
+            [UseStandardPrice] => 1
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9jeAAA
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:39 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Name] => PROFI DECO BORDER
+            [ProductCode] => 0319-1(O)
+            [Description] => PROFI DECO BORDER
+            [Brand__c] => N/A
+            [Category__c] => N/A
+            [Collection__c] => 783
+            [Country_Of_Origin__c] => N/A
+            [Date_Launched__c] => 2015
+            [Genre__c] => N/A
+            [Manufacturer__c] => N/A
+            [Non_Stock__c] => N
+            [Size_Of_Roll__c] => N/A
+            [Status__c] => A
+            [Stock_Type__c] => N/A
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01t61000000PjweAAC
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:40 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000001GTLpAAO
+            [Product2Id] => 01t61000000PjweAAC
+            [UnitPrice] => 0
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9FhAAI
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:40 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000003N5y9AAC
+            [Product2Id] => 01t61000000PjweAAC
+            [UnitPrice] => 0
+            [UseStandardPrice] => 1
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9jfAAA
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:41 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Name] => PROFI DECO BORDER
+            [ProductCode] => 0319-1(O)
+            [Description] => PROFI DECO BORDER
+            [Brand__c] => N/A
+            [Category__c] => N/A
+            [Collection__c] => 783
+            [Country_Of_Origin__c] => N/A
+            [Date_Launched__c] => 2015
+            [Genre__c] => N/A
+            [Manufacturer__c] => N/A
+            [Non_Stock__c] => N
+            [Size_Of_Roll__c] => N/A
+            [Status__c] => A
+            [Stock_Type__c] => N/A
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01t61000000PjwjAAC
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:41 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000001GTLpAAO
+            [Product2Id] => 01t61000000PjwjAAC
+            [UnitPrice] => 0
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9G9AAI
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:42 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000003N5yEAAS
+            [Product2Id] => 01t61000000PjwjAAC
+            [UnitPrice] => 0
+            [UseStandardPrice] => 1
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9qGAAQ
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:42 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Name] => ROSANNA (FABRIC 2.80 WIDTH)
+            [ProductCode] => 03490280
+            [Description] => ROSANNA (FABRIC 2.80 WIDTH)
+            [Category__c] => 08
+            [Collection__c] => 247
+            [Country_Of_Origin__c] => FR
+            [Manufacturer__c] => LU
+            [Non_Stock__c] => N
+            [Size_Of_Roll__c] => 06
+            [Status__c] => A
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01t61000000PjwoAAC
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:43 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000001GTLpAAO
+            [Product2Id] => 01t61000000PjwoAAC
+            [UnitPrice] => 100
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9VsAAI
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:43 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000003N5y4AAC
+            [Product2Id] => 01t61000000PjwoAAC
+            [UnitPrice] => 100
+            [UseStandardPrice] => 1
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9qLAAQ
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:43 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Name] => ROSANNA (FABRIC 2.80 WIDTH)
+            [ProductCode] => 03490280
+            [Description] => ROSANNA (FABRIC 2.80 WIDTH)
+            [Category__c] => 08
+            [Collection__c] => 247
+            [Country_Of_Origin__c] => FR
+            [Manufacturer__c] => LU
+            [Non_Stock__c] => N
+            [Size_Of_Roll__c] => 06
+            [Status__c] => A
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01t61000000PjwtAAC
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:44 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000001GTLpAAO
+            [Product2Id] => 01t61000000PjwtAAC
+            [UnitPrice] => 90
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9qVAAQ
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:44 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000003N5y9AAC
+            [Product2Id] => 01t61000000PjwtAAC
+            [UnitPrice] => 90
+            [UseStandardPrice] => 1
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9VtAAI
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:45 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Name] => ROSANNA (FABRIC 2.80 WIDTH)
+            [ProductCode] => 03490280
+            [Description] => ROSANNA (FABRIC 2.80 WIDTH)
+            [Category__c] => 08
+            [Collection__c] => 247
+            [Country_Of_Origin__c] => FR
+            [Manufacturer__c] => LU
+            [Non_Stock__c] => N
+            [Size_Of_Roll__c] => 06
+            [Status__c] => A
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01t61000000PjwyAAC
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:45 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000001GTLpAAO
+            [Product2Id] => 01t61000000PjwyAAC
+            [UnitPrice] => 80
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9qHAAQ
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:46 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000003N5yEAAS
+            [Product2Id] => 01t61000000PjwyAAC
+            [UnitPrice] => 80
+            [UseStandardPrice] => 1
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9qWAAQ
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:46 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Name] => ROSANNA (FABRIC 2.80 WIDTH)
+            [ProductCode] => 03599280
+            [Description] => ROSANNA (FABRIC 2.80 WIDTH)
+            [Category__c] => 08
+            [Collection__c] => 247
+            [Country_Of_Origin__c] => FR
+            [Manufacturer__c] => LU
+            [Non_Stock__c] => N
+            [Size_Of_Roll__c] => 06
+            [Status__c] => A
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01t61000000Pjx3AAC
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:46 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000001GTLpAAO
+            [Product2Id] => 01t61000000Pjx3AAC
+            [UnitPrice] => 100
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9qIAAQ
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:47 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000003N5y4AAC
+            [Product2Id] => 01t61000000Pjx3AAC
+            [UnitPrice] => 100
+            [UseStandardPrice] => 1
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9HcAAI
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:47 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Name] => ROSANNA (FABRIC 2.80 WIDTH)
+            [ProductCode] => 03599280
+            [Description] => ROSANNA (FABRIC 2.80 WIDTH)
+            [Category__c] => 08
+            [Collection__c] => 247
+            [Country_Of_Origin__c] => FR
+            [Manufacturer__c] => LU
+            [Non_Stock__c] => N
+            [Size_Of_Roll__c] => 06
+            [Status__c] => A
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01t61000000Pjx8AAC
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:48 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000001GTLpAAO
+            [Product2Id] => 01t61000000Pjx8AAC
+            [UnitPrice] => 90
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9x7AAA
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:50 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000003N5y9AAC
+            [Product2Id] => 01t61000000Pjx8AAC
+            [UnitPrice] => 90
+            [UseStandardPrice] => 1
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001iA0aAAE
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:50 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Name] => ROSANNA (FABRIC 2.80 WIDTH)
+            [ProductCode] => 03599280
+            [Description] => ROSANNA (FABRIC 2.80 WIDTH)
+            [Category__c] => 08
+            [Collection__c] => 247
+            [Country_Of_Origin__c] => FR
+            [Manufacturer__c] => LU
+            [Non_Stock__c] => N
+            [Size_Of_Roll__c] => 06
+            [Status__c] => A
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01t61000000PjxDAAS
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:51 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000001GTLpAAO
+            [Product2Id] => 01t61000000PjxDAAS
+            [UnitPrice] => 80
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9IZAAY
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:51 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000003N5yEAAS
+            [Product2Id] => 01t61000000PjxDAAS
+            [UnitPrice] => 80
+            [UseStandardPrice] => 1
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001iA3tAAE
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:52 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Name] => ROSANNA (FABRIC 2.80 WIDTH)
+            [ProductCode] => 03842280
+            [Description] => ROSANNA (FABRIC 2.80 WIDTH)
+            [Category__c] => 08
+            [Collection__c] => 247
+            [Country_Of_Origin__c] => FR
+            [Manufacturer__c] => LU
+            [Non_Stock__c] => N
+            [Size_Of_Roll__c] => 06
+            [Status__c] => A
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01t61000000PjxIAAS
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:52 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000001GTLpAAO
+            [Product2Id] => 01t61000000PjxIAAS
+            [UnitPrice] => 100
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001iA3yAAE
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:52 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000003N5y4AAC
+            [Product2Id] => 01t61000000PjxIAAS
+            [UnitPrice] => 100
+            [UseStandardPrice] => 1
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001iA48AAE
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:53 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Name] => ROSANNA (FABRIC 2.80 WIDTH)
+            [ProductCode] => 03842280
+            [Description] => ROSANNA (FABRIC 2.80 WIDTH)
+            [Category__c] => 08
+            [Collection__c] => 247
+            [Country_Of_Origin__c] => FR
+            [Manufacturer__c] => LU
+            [Non_Stock__c] => N
+            [Size_Of_Roll__c] => 06
+            [Status__c] => A
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01t61000000PjxNAAS
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:53 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000001GTLpAAO
+            [Product2Id] => 01t61000000PjxNAAS
+            [UnitPrice] => 90
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001iA7RAAU
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:54 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000003N5y9AAC
+            [Product2Id] => 01t61000000PjxNAAS
+            [UnitPrice] => 90
+            [UseStandardPrice] => 1
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001iA49AAE
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:54 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Name] => ROSANNA (FABRIC 2.80 WIDTH)
+            [ProductCode] => 03842280
+            [Description] => ROSANNA (FABRIC 2.80 WIDTH)
+            [Category__c] => 08
+            [Collection__c] => 247
+            [Country_Of_Origin__c] => FR
+            [Manufacturer__c] => LU
+            [Non_Stock__c] => N
+            [Size_Of_Roll__c] => 06
+            [Status__c] => A
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01t61000000PjxSAAS
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:54 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000001GTLpAAO
+            [Product2Id] => 01t61000000PjxSAAS
+            [UnitPrice] => 80
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9IAAAY
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:55 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000003N5yEAAS
+            [Product2Id] => 01t61000000PjxSAAS
+            [UnitPrice] => 80
+            [UseStandardPrice] => 1
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9PHAAY
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:55 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Name] => ROSANNA DISCONTINUED FR SUPPLIER
+            [ProductCode] => 03854280
+            [Description] => ROSANNA DISCONTINUED FR SUPPLIER
+            [Category__c] => 08
+            [Collection__c] => 247
+            [Country_Of_Origin__c] => FR
+            [Manufacturer__c] => LU
+            [Non_Stock__c] => N
+            [Size_Of_Roll__c] => 06
+            [Status__c] => A
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01t61000000PjxXAAS
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:56 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000001GTLpAAO
+            [Product2Id] => 01t61000000PjxXAAS
+            [UnitPrice] => 100
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001iAApAAM
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:56 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000003N5y4AAC
+            [Product2Id] => 01t61000000PjxXAAS
+            [UnitPrice] => 100
+            [UseStandardPrice] => 1
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9KpAAI
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:57 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Name] => ROSANNA DISCONTINUED FR SUPPLIER
+            [ProductCode] => 03854280
+            [Description] => ROSANNA DISCONTINUED FR SUPPLIER
+            [Category__c] => 08
+            [Collection__c] => 247
+            [Country_Of_Origin__c] => FR
+            [Manufacturer__c] => LU
+            [Non_Stock__c] => N
+            [Size_Of_Roll__c] => 06
+            [Status__c] => A
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01t61000000PjxcAAC
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:57 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000001GTLpAAO
+            [Product2Id] => 01t61000000PjxcAAC
+            [UnitPrice] => 90
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001iA7XAAU
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:57 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000003N5y9AAC
+            [Product2Id] => 01t61000000PjxcAAC
+            [UnitPrice] => 90
+            [UseStandardPrice] => 1
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001iAAzAAM
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:58 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Name] => ROSANNA DISCONTINUED FR SUPPLIER
+            [ProductCode] => 03854280
+            [Description] => ROSANNA DISCONTINUED FR SUPPLIER
+            [Category__c] => 08
+            [Collection__c] => 247
+            [Country_Of_Origin__c] => FR
+            [Manufacturer__c] => LU
+            [Non_Stock__c] => N
+            [Size_Of_Roll__c] => 06
+            [Status__c] => A
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01t61000000PjwuAAC
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:58 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000001GTLpAAO
+            [Product2Id] => 01t61000000PjwuAAC
+            [UnitPrice] => 80
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001iAClAAM
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:59 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000003N5yEAAS
+            [Product2Id] => 01t61000000PjwuAAC
+            [UnitPrice] => 80
+            [UseStandardPrice] => 1
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001iAB0AAM
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:59 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Name] => NOT PART OF OUR COLLECTION
+            [ProductCode] => 03872-10(O)
+            [Description] => NOT PART OF OUR COLLECTION
+            [Brand__c] => N/A
+            [Category__c] => N/A
+            [Collection__c] => N/A
+            [Country_Of_Origin__c] => N/A
+            [Date_Launched__c] => 2015
+            [Genre__c] => N/A
+            [Manufacturer__c] => N/A
+            [Non_Stock__c] => N
+            [Size_Of_Roll__c] => N/A
+            [Status__c] => A
+            [Stock_Type__c] => N/A
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01t61000000PjxhAAC
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:21:59 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000001GTLpAAO
+            [Product2Id] => 01t61000000PjxhAAC
+            [UnitPrice] => 100
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001i9HdAAI
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:22:00 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Pricebook2Id] => 01s61000003N5y4AAC
+            [Product2Id] => 01t61000000PjxhAAC
+            [UnitPrice] => 100
+            [UseStandardPrice] => 1
+        )
+
+)
+
+RESPONSE:Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 01u61000001iAHbAAM
+            [success] => 1
+        )
+
+)
+
+
+Friday 22nd of January 2016 12:22:00 AM
+RECORD:Array
+(
+    [0] => stdClass Object
+        (
+            [Name] => NOT PART OF OUR COLLECTION
+            [ProductCode] => 03872-10(O)
+            [Description] => NOT PART OF OUR COLLECTION
+            [Brand__c] => N/A
+            [Category__c] => N/A
+            [Collection__c] => N/A
+            [Country_Of_Origin__c] => N/A
+            [Date_Launched__c] => 2015
+            [Genre__c] => N/A
+            [Manufacturer__c] => N/A
+            [Non_Stock__c] => N
+            [Size_Of_Roll__c] => N/A
+            [Status__c] => A
+            [Stock_Type__c] => N/A
+        )
+
+)

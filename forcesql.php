@@ -22,7 +22,6 @@ if($ms_sql->get_connection() && $force->get_connection()){
   $con_slcode = $ms_sql->get_primary_key('contacts', 'SLCODE');
 
   $account = new account($acc_slcode);
-//  echo '<br>' . count($force_records) . '<br>';
   foreach($force_records as $record){
     if(isset($record->Id)){
       $account->set_sf_fields($record);
@@ -51,6 +50,8 @@ if($ms_sql->get_connection() && $force->get_connection()){
   }
 
   foreach($sql_records as $company => $slcode){
+    $insert_array = array();
+    $update_array = array();
     foreach($slcode as $record){
       $account_id = FALSE;
       if($record['Account']){
@@ -62,7 +63,7 @@ if($ms_sql->get_connection() && $force->get_connection()){
             $ms_sql->update_account_status($account->get_primary_keys(), '0', $account_id);
           }
         }
-        elseif($account->get_status() == -1){
+        elseif($account->get_status() == 2){
           $account_id = $force->update('Account', array($account->get_force_object()));
           if($account_id){
             $ms_sql->update_contact_status($account->get_primary_keys(), '0', $account_id);
@@ -76,13 +77,14 @@ if($ms_sql->get_connection() && $force->get_connection()){
           if($contact->get_status() == 1){
             if($account_id){
               $contact->set_account($account_id);
+              $contact->set_owner_id($account->get_owner_id());
             }
             $contact_id = $force->insert('Contact', array($contact->get_force_object()));
             if($contact_id){
               $ms_sql->update_contact_status($contact->get_primary_keys(), '0', $contact_id);
             }
           }
-          elseif($contact->get_status() == -1){
+          elseif($contact->get_status() == 2){
             $contact_id = $force->update('Contact', array($contact->get_force_object()));
             if($contact_id){
               $ms_sql->update_contact_status($contact->get_primary_keys(), '0', $contact_id);
@@ -127,7 +129,7 @@ if($ms_sql->get_connection() && $force->get_connection()){
   foreach($sql_products as $prd){
     $product = new product();
     $product->set_sql_fields($prd);
-    if($product->get_status() == 0){
+    if($product->get_status() == 1){
       $product_id = $force->insert('Product2', array($product->get_force_object()));
       if($product_id){
         $pricebook_entry = new stdClass();
@@ -144,7 +146,7 @@ if($ms_sql->get_connection() && $force->get_connection()){
         $ms_sql->update_product_status($product->get_primary_keys(), '4', $product_id);
       }
     }
-    elseif($product->get_status() == 1){
+    elseif($product->get_status() == 2){
       $product_id = $force->update('Product2', array($product->get_force_object()));
       if($product_id){
         $ms_sql->update_product_status($product->get_primary_keys(), '4', $product_id);

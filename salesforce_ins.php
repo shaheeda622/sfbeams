@@ -89,16 +89,15 @@ class salesforce_ins{
   public function insert($object, $records){
     $ids = FALSE;
     try{
-      log_force_data($records, 'RECORD:', TRUE);
       if(count($records) > 0){
         $response = $this->conn->create($records, $object);
         foreach($response as $result){
           $ids = $result->id ? : 0;
         }
       }
-      log_force_data($response, 'RESPONSE:');
     }
     catch(Exception $e){
+      log_force_data($records, 'RECORD:', TRUE);
       log_force_data('Soap Error ' . $e->getMessage(), 'ERROR:');
     }
     return $ids;
@@ -107,16 +106,15 @@ class salesforce_ins{
   public function update($object, $records){
     $ids = FALSE;
     try{
-      log_force_data($records, 'RECORD:', TRUE);
       if(count($records) > 0){
         $response = $this->conn->update($records, $object);
         foreach($response as $result){
           $ids = $result->id ? : 0;
         }
       }
-      log_force_data($response, 'RESPONSE:');
     }
     catch(Exception $e){
+      log_force_data($records, 'RECORD:', TRUE);
       log_force_data('Soap Error ' . $e->getMessage(), 'ERROR:');
     }
     return $ids;

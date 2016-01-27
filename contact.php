@@ -30,6 +30,7 @@ class contact{
   );
   private $force_fields = array(
       'Id' => '',
+      'OwnerId' => '',
       'FirstName' => '',
       'LastName' => '',
       'AccountId' => '',
@@ -91,6 +92,10 @@ class contact{
 
   public function get_sf_id(){
     return $this->sql_fields['SF_ID'];
+  }
+
+  public function set_owner_id($id){
+    $this->force_fields['OwnerId'] = $id;
   }
 
   public function set_sql_fields($row){

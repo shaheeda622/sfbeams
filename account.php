@@ -52,6 +52,7 @@ class account{
   private $force_fields = array(
       'Id' => '',
       'Name' => '',
+      'OwnerId' => '',
       'Division__c' => '',
       'Type' => '',
       'Price_List__c' => '',
@@ -91,6 +92,7 @@ class account{
   );
   private $mapping = array(
       'SLDESCP' => 'Name',
+      'SMAN' => 'OwnerId',
       'SMAN_NAME' => 'SMAN_NAME__c',
       'DIVISION' => 'Division__c',
       'TYPE' => 'Type',
@@ -132,9 +134,9 @@ class account{
       'SF_ID' => 'Id'
   );
   private $pricelist = array(
-	'PRICE1' => 'Showroom Price',
-	'PRICE2' => 'NGC',
-	'PRICE3' => 'Wholesale Price'
+      'PRICE1' => 'Showroom Price',
+      'PRICE2' => 'NGC',
+      'PRICE3' => 'Wholesale Price'
   );
 
   public function set_pricebooks($pricebooks){
@@ -153,12 +155,24 @@ class account{
     return implode(',', $keys);
   }
 
+  public function get_sf_field($field){
+    return isset($this->force_fields[$field]) ? $this->force_fields[$field]: '';
+  }
+
+  public function set_sf_field($field, $value){
+    $this->force_fields[$field] = $value;
+  }
+
   public function get_status(){
     return intval($this->sql_fields['SYNCH_STATUS']);
   }
 
   public function get_sf_id(){
     return $this->sql_fields['SF_ID'];
+  }
+
+  public function get_owner_id(){
+    return $this->sql_fields['SMAN'];
   }
 
   public function set_sql_fields($row){
@@ -240,8 +254,9 @@ class account{
         return 'BH';
       case 'CE':
         return 'LK';
+      default:
+        return $str;
     }
-
   }
 
   public function convert_to_sql(){

@@ -2,7 +2,7 @@
 
 class contact{
 
-  private $sql_fields = array(
+  public $sql_fields = array(
       'COMPANY' => '01',
       'SLCODE' => '',
       'SRNO' => '',
@@ -28,7 +28,7 @@ class contact{
       'SYNCH_STATUS' => '',
       'SF_ID' => ''
   );
-  private $force_fields = array(
+  public $force_fields = array(
       'Id' => '',
       'OwnerId' => '',
       'FirstName' => '',
@@ -51,7 +51,7 @@ class contact{
       'MailingCountry' => '',
       'MailingCountryCode' => ''
   );
-  private $mapping = array(
+  public $mapping = array(
       'CONTACT_FIRST_NAME' => 'FirstName',
       'CONTACT_LAST_NAME' => 'LastName',
       'DOB' => 'Birthdate',
@@ -158,6 +158,7 @@ class contact{
   public function get_force_object(){
     $this->convert_to_force();
     $rec = new stdclass();
+    $rec->Data_Source__c = 'Beams ERP Records';
     foreach($this->force_fields as $key => $field){
       if(!empty($field)){
         $rec->$key = $field;
@@ -190,6 +191,7 @@ class contact{
           break;
       }
     }
+    $this->sql_fields['SYNCH_STATUS'] = '3';
     return $record;
   }
 

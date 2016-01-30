@@ -2,7 +2,7 @@
 
 class product{
 
-  private $sql_fields = array(
+  public $sql_fields = array(
       'COMPANY' => '01',
       'STKCODE' => '',
       'PRICE_LIST' => '',
@@ -26,7 +26,7 @@ class product{
       'UNIQUE_ID' => '',
       'SF_ID' => ''
   );
-  private $force_fields = array(
+  public $force_fields = array(
       'Id' => '',
       'Name' => '',
       'ProductCode' => '',
@@ -46,7 +46,7 @@ class product{
       'Main_Type__c' => '',
       'Main_Unit__c' => ''
   );
-  private $mapping = array(
+  public $mapping = array(
       'STKDESCP' => 'Name',
       'STKCODE' => 'ProductCode',
       'BARCODE' => 'Barcode__c',
@@ -147,6 +147,7 @@ class product{
   public function get_force_object(){
     $this->convert_to_force();
     $rec = new stdclass();
+    $rec->Data_Source__c = 'Beams ERP Records';
     foreach($this->force_fields as $key => $field){
       if(!empty($field)){
         $rec->$key = $field;

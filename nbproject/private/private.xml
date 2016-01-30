@@ -4,8 +4,11 @@
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
             <file>file:/C:/wamp/www/forcesql/account.php</file>
-            <file>file:/C:/wamp/www/forcesql/forcesql.php</file>
+            <file>file:/C:/wamp/www/forcesql/product.php</file>
             <file>file:/C:/wamp/www/forcesql/sql_init.php</file>
+            <file>file:/C:/wamp/www/forcesql/salesforce_ins.php</file>
+            <file>file:/C:/wamp/www/forcesql/forcesql.php</file>
+            <file>file:/C:/wamp/www/forcesql/helpers.php</file>
             <file>file:/C:/wamp/www/forcesql/contact.php</file>
         </group>
     </open-files>

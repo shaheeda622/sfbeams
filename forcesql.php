@@ -50,25 +50,32 @@ if($ms_sql->get_connection() && $force->get_connection()){
   }
 
   foreach($sql_records as $company => $slcode){
-    $insert_array = array();
-    $update_array = array();
+    $insert_accounts = array();
+    $update_accounts = array();
     foreach($slcode as $record){
       $account_id = FALSE;
       if($record['Account']){
         $account = new account();
         $account->set_sql_fields($record['Account']);
-        if($account->get_status() == 1){
-          $account_id = $force->insert('Account', array($account->get_force_object()));
-          if($account_id){
-            $ms_sql->update_account_status($account->get_primary_keys(), '0', $account_id);
+        if($record['Contact']){
+          foreach($record['Contact'] as $c){
+            $contact = new contact();
+            $contact->set_sql_fields($c);
+            $account->contacts[] = $contact;
           }
         }
-        elseif($account->get_status() == 2){
-          $account_id = $force->update('Account', array($account->get_force_object()));
-          if($account_id){
-            $ms_sql->update_contact_status($account->get_primary_keys(), '0', $account_id);
-          }
+        if($account->get_status() == 0){
+          $insert_accounts[] = $account;
         }
+        elseif($account->get_status() == 1){
+          $update_accounts[] = $account;
+        }
+      }
+      if(count($insert_accounts) >= 500){ // do insert handling
+        insert_accounts($force, $ms_sql, $insert_accounts);
+      }
+      if(count($update_accounts) >= 500){ // do update handling
+        update_accounts($force, $ms_sql, $update_accounts);
       }
       if($record['Contact']){
         foreach($record['Contact'] as $c){
@@ -126,34 +133,111 @@ if($ms_sql->get_connection() && $force->get_connection()){
   }
 
   $pricebooks = $force->get_pricebooks();
+  $insert_products = array();
+  $update_products = array();
   foreach($sql_products as $prd){
     $product = new product();
     $product->set_sql_fields($prd);
-    if($product->get_status() == 1){
-      $product_id = $force->insert('Product2', array($product->get_force_object()));
-      if($product_id){
-        $pricebook_entry = new stdClass();
-        $pricebook_entry->Pricebook2Id = $pricebooks['Standard'];
-        $pricebook_entry->Product2Id = $product_id;
-        $pricebook_entry->UnitPrice = $product->get_price();
-        $force->insert('PricebookEntry', array($pricebook_entry));
-        $pricebook_entry = new stdClass();
-        $pricebook_entry->Pricebook2Id = $pricebooks[$product->get_pricelist()];
-        $pricebook_entry->Product2Id = $product_id;
-        $pricebook_entry->UnitPrice = $product->get_price();
-        $pricebook_entry->UseStandardPrice = TRUE;
-        $force->insert('PricebookEntry', array($pricebook_entry));
-        $ms_sql->update_product_status($product->get_primary_keys(), '4', $product_id);
-      }
+    if($product->get_status() == 0){
+      $insert_products[] = $product;
     }
-    elseif($product->get_status() == 2){
-      $product_id = $force->update('Product2', array($product->get_force_object()));
-      if($product_id){
-        $ms_sql->update_product_status($product->get_primary_keys(), '4', $product_id);
-      }
+    elseif($product->get_status() == 1){
+      $update_products[] = $product;
     }
+    if(count($insert_products) >= 1000){ // do insert handling
+      insert_products($force, $ms_sql, $pricebooks, $insert_products);
+    }
+    if(count($update_products) >= 1000){ // do update handling
+      update_products($force, $ms_sql, $pricebooks, $update_products);
+    }
+  }
+  if(count($insert_products) > 0){ // do insert handling
+    insert_products($force, $ms_sql, $pricebooks, $insert_products);
+  }
+  if(count($update_products) > 0){ // do update handling
+    update_products($force, $ms_sql, $pricebooks, $update_products);
   }
 }
 else{
   echo "Connection could not be established.";
+}
+
+function insert_accounts($force, $ms_sql, $insert_accounts){
+  $accounts = $force->insert_batch('Account', $insert_accounts);
+  $contacts = array();
+  foreach($accounts as $account){
+    if($account->force_fields['Id']){
+      foreach($account->contacts as $contact){
+        $contact->set_account($account->force_fields['Id']);
+        $contact->set_owner_id($account->get_owner_id());
+        $contacts[] = $contact;
+      }
+      $ms_sql->update_account_status($account->get_primary_keys(), '4', $account->force_fields['Id']);
+    }
+  }
+  if(count($contacts) > 0){
+    $force->insert_batch('Contact', $contacts);
+  }
+}
+
+function update_accounts($force, $ms_sql, $update_accounts){
+  $accounts = $force->update_batch('Account', $update_accounts);
+  $contacts = array();
+  foreach($accounts as $account){
+    if($account->force_fields['Id']){
+      foreach($account->contacts as $contact){
+        $contact->set_account($account->force_fields['Id']);
+        $contact->set_owner_id($account->get_owner_id());
+        $contacts[] = $contact;
+      }
+      $ms_sql->update_account_status($account->get_primary_keys(), '4', $account->force_fields['Id']);
+    }
+  }
+  if(count($contacts) > 0){
+    $force->update_batch('Contact', $contacts);
+  }
+}
+
+function insert_products($force, $ms_sql, $pricebooks, $insert_products){
+  $products = $force->insert_batch('Product2', $insert_products);
+  foreach($products as $product){
+    $pb_entries = array();
+    $pricelist = $product->get_pricelist();
+    if($product->force_fields['Id'] && $pricelist){
+      $pricebook_entry = new stdClass();
+      $pricebook_entry->Pricebook2Id = $pricebooks['Standard'];
+      $pricebook_entry->Product2Id = $product->force_fields['Id'];
+      $pricebook_entry->UnitPrice = $product->get_price();
+      $pb_entries[] = $pricebook_entry;
+      $pricebook_entry->Pricebook2Id = $pricebooks[$pricelist];
+      $pricebook_entry->UseStandardPrice = TRUE;
+      $pb_entries[] = $pricebook_entry;
+      $ms_sql->update_product_status($product->get_primary_keys(), '4', $product->force_fields['Id']);
+    }
+    if(count($pb_entries) > 0){
+      $force->insert_batch('PricebookEntry', $pb_entries);
+    }
+  }
+}
+
+function update_products($force, $ms_sql, $pricebooks, $update_products){
+  $products = $force->update_batch('Product2', $update_products);
+  foreach($products as $product){
+    $pb_entries = array();
+    $pricelist = $product->get_pricelist();
+    if($product->force_fields['Id'] && $pricelist){
+      $pricebook_entry = new stdClass();
+      $pricebook_entry->Pricebook2Id = $pricebooks['Standard'];
+      $pricebook_entry->Product2Id = $product->force_fields['Id'];
+      $pricebook_entry->UnitPrice = $product->get_price();
+      $pb_entries[] = $pricebook_entry;
+      $pricebook_entry->Pricebook2Id = $pricebooks[$pricelist];
+      $pricebook_entry->UseStandardPrice = TRUE;
+      $pb_entries[] = $pricebook_entry;
+      $ms_sql->update_product_status($product->get_primary_keys(), '4', $product->force_fields['Id']);
+    }
+    if(count($pb_entries) > 0){
+      $force->update_batch('PricebookEntry', $pb_entries);
+    }
+  }
 }

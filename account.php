@@ -2,7 +2,7 @@
 
 class account{
 
-  private $sql_fields = array(
+  public $sql_fields = array(
       'COMPANY' => '01',
       'SLCODE' => '',
       'SLDESCP' => '',
@@ -49,7 +49,7 @@ class account{
       'SYNCH_STATUS' => '',
       'SF_ID' => ''
   );
-  private $force_fields = array(
+  public $force_fields = array(
       'Id' => '',
       'Name' => '',
       'OwnerId' => '',
@@ -90,8 +90,9 @@ class account{
       'ShippingCountry' => '',
       'ShippingCountryCode' => '',
   );
-  private $mapping = array(
+  public $mapping = array(
       'SLDESCP' => 'Name',
+      'SLCODE'  => 'Customer_Code__c',
       'SMAN' => 'OwnerId',
       'SMAN_NAME' => 'SMAN_NAME__c',
       'DIVISION' => 'Division__c',
@@ -133,11 +134,12 @@ class account{
       'DESCP' => 'Description',
       'SF_ID' => 'Id'
   );
-  private $pricelist = array(
+  public $pricelist = array(
       'PRICE1' => 'Showroom Price',
       'PRICE2' => 'NGC',
       'PRICE3' => 'Wholesale Price'
   );
+  public $contacts = array();
 
   public function set_pricebooks($pricebooks){
     $this->pricebooks = $pricebooks;
@@ -238,7 +240,7 @@ class account{
     }
   }
 
-  private function _get_country_iso($str){
+  public function _get_country_iso($str){
     switch(trim($str)){
       case 'UAE':
         return 'AE';
@@ -328,6 +330,7 @@ class account{
           break;
       }
     }
+    $this->sql_fields['SYNCH_STATUS'] = '3';
     return $record;
   }
 

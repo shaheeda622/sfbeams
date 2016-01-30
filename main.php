@@ -2,7 +2,7 @@
 
 $debug = TRUE;
 set_time_limit(0);
-ini_set('memory_limit', '2048M');
+ini_set('memory_limit', '4096M');
 
 $i = 1;
 $sleep_time = 5; // seconds

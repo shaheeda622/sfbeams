@@ -21,13 +21,13 @@ class salesforce_ins{
 
   public function get_records(){
     $result = array();
-    $query = 'SELECT ' . account::get_sf_fields() . ' FROM Account WHERE LastModifiedDate > ' . utcDateFormat(time() - 3600);
+    $query = 'SELECT ' . account::get_sf_fields() . ' FROM Account WHERE LastModifiedDate > ' . utcDateFormat(time() - 7200);
     $response = $this->conn->query($query);
     foreach($response->records as $record){
       $record->Contacts = array();
       $result[$record->Id] = $record;
     }
-    $query = 'SELECT ' . contact::get_sf_fields() . ' FROM Contact WHERE LastModifiedDate > ' . utcDateFormat(time() - 3600);
+    $query = 'SELECT ' . contact::get_sf_fields() . ' FROM Contact WHERE LastModifiedDate > ' . utcDateFormat(time() - 7200);
     $response = $this->conn->query($query);
     foreach($response->records as $record){
       if(!isset($result[$record->AccountId]->Contacts)){
@@ -84,6 +84,55 @@ class salesforce_ins{
       $result[$key] = $record->Id;
     }
     return $result;
+  }
+
+  public function insert_batch($object, $data){
+    $records = array();
+    foreach($data as $i => $d){
+      $records[$i] = $d->get_force_object();
+    }
+    try{
+      if(count($records) > 0){
+        $response = $this->conn->create($records, $object);
+        foreach($response as $i => $result){
+          if(empty($result->id)){
+            log_force_data($records, 'RECORD:', TRUE);
+            log_force_data($result, 'ERROR:');
+          }
+          else{
+            $data[$i]->force_fields['Id'] = $result->id;
+          }
+        }
+      }
+    }
+    catch(Exception $e){
+      log_force_data($records, 'RECORD:', TRUE);
+      log_force_data('Soap Error ' . $e->getMessage(), 'ERROR:');
+    }
+    return $data;
+  }
+
+  public function update_batch($object, $data){
+    $records = array();
+    foreach($data as $i => $d){
+      $records[$i] = $d->get_force_object();
+    }
+    try{
+      if(count($records) > 0){
+        $response = $this->conn->update($records, $object);
+        foreach($response as $result){
+          if(empty($result->id)){
+            log_force_data($records, 'RECORD:', TRUE);
+            log_force_data($result, 'ERROR:');
+          }
+        }
+      }
+    }
+    catch(Exception $e){
+      log_force_data($records, 'RECORD:', TRUE);
+      log_force_data('Soap Error ' . $e->getMessage(), 'ERROR:');
+    }
+    return $data;
   }
 
   public function insert($object, $records){

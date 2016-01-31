@@ -2,10 +2,10 @@
 
 class SQL_C{
 
-  var $server_name = "ZULFIQARPC\SQLEXPRESS"; //serverName\instanceName
-  var $database = 'BEAMS_NGC_SALESFORCE1';
+  var $server_name = "WINDOWS-O96TCV3"; //serverName\instanceName
+  var $database = 'BEAMS_NGC_SALESFORCE';
   var $user_name = 'sa';
-  var $password = 'cl0udstrife';
+  var $password = 'Password4321';
   var $conn = NULL;
 
   function get_connection(){

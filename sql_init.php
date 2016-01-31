@@ -75,7 +75,7 @@ class SQL_C{
 
   function get_products(){
     $records = array();
-    $query = 'SELECT * from productmaster WHERE SYNCH_STATUS IN (0,1)';
+    $query = 'SELECT TOP 5000 * from productmaster WHERE SYNCH_STATUS IN (0,1)';
     log_sql_data($query, 'QUERY:', TRUE);
     $res = sqlsrv_query($this->conn, $query);
     if(!$res){

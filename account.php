@@ -233,7 +233,7 @@ class account{
             $this->force_fields[$force_field] = $this->_get_country_iso($this->sql_fields[$sql_field]);
             break;
           default :
-            $this->force_fields[$force_field] = htmlentities($this->sql_fields[$sql_field]);
+            $this->force_fields[$force_field] = trim(filter_var($this->sql_fields[$sql_field], FILTER_SANITIZE_STRING, FILTER_FLAG_STRIP_HIGH));
             break;
         }
       }
@@ -257,7 +257,7 @@ class account{
       case 'CE':
         return 'LK';
       default:
-        return $str;
+        return trim($str);
     }
   }
 

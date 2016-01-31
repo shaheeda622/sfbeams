@@ -49,6 +49,7 @@ class product{
   public $mapping = array(
       'STKDESCP' => 'Name',
       'STKCODE' => 'ProductCode',
+      'UNIT1' => 'Main_Unit__c',
       'BARCODE' => 'Barcode__c',
       'MANUFACTURER' => 'Manufacturer__c',
       'CATEGORY' => 'Category__c',

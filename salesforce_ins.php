@@ -21,13 +21,13 @@ class salesforce_ins{
 
   public function get_records(){
     $result = array();
-    $query = 'SELECT ' . account::get_sf_fields() . ' FROM Account WHERE LastModifiedDate > ' . utcDateFormat(time() - 7200);
+    $query = 'SELECT ' . account::get_sf_fields() . ' FROM Account WHERE Data_Source__c = \'New Records Salesforce\' AND LastModifiedDate > ' . utcDateFormat(time() - 7200);
     $response = $this->conn->query($query);
     foreach($response->records as $record){
       $record->Contacts = array();
       $result[$record->Id] = $record;
     }
-    $query = 'SELECT ' . contact::get_sf_fields() . ' FROM Contact WHERE LastModifiedDate > ' . utcDateFormat(time() - 7200);
+    $query = 'SELECT ' . contact::get_sf_fields() . ' FROM Contact WHERE Data_Source__c = \'New Records Salesforce\' AND LastModifiedDate > ' . utcDateFormat(time() - 7200);
     $response = $this->conn->query($query);
     foreach($response->records as $record){
       if(!isset($result[$record->AccountId]->Contacts)){
@@ -40,7 +40,7 @@ class salesforce_ins{
 
   public function get_products(){
     $result = array();
-    $query = 'SELECT Id, Unitprice, Pricebook2.Id, Pricebook2.Name, ' . product::get_sf_fields() . ', LastModifiedDate FROM PricebookEntry WHERE LastModifiedDate > ' . utcDateFormat(time() + 7200);
+    $query = 'SELECT Id, Unitprice, Pricebook2.Id, Pricebook2.Name, ' . product::get_sf_fields() . ', LastModifiedDate FROM PricebookEntry WHERE Product2.Data_Source__c = \'New Records Salesforce\' AND LastModifiedDate > ' . utcDateFormat(time() + 7200);
     $response = $this->conn->query($query);
     foreach($response->records as $record){
       if(!isset($result[$record->Product2->Id])){
@@ -89,14 +89,14 @@ class salesforce_ins{
   public function insert_batch($object, $data){
     $records = array();
     foreach($data as $i => $d){
-      $records[$i] = $d->get_force_object();
+      $records[$i] = method_exists($d, 'get_force_object') ? $d->get_force_object() : $d;
     }
     try{
       if(count($records) > 0){
         $response = $this->conn->create($records, $object);
         foreach($response as $i => $result){
           if(empty($result->id)){
-            log_force_data($records, 'RECORD:', TRUE);
+            log_force_data($records[$i], 'RECORD:', TRUE);
             log_force_data($result, 'ERROR:');
           }
           else{
@@ -115,7 +115,7 @@ class salesforce_ins{
   public function update_batch($object, $data){
     $records = array();
     foreach($data as $i => $d){
-      $records[$i] = $d->get_force_object();
+      $records[$i] = method_exists($d, 'get_force_object') ? $d->get_force_object() : $d;
     }
     try{
       if(count($records) > 0){
